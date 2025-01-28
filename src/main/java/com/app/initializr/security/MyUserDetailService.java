@@ -1,7 +1,7 @@
-package com.app.job_tracker.security;
+package com.app.initializr.security;
 
-import com.app.job_tracker.entity.User;
-import com.app.job_tracker.repository.UserRepo;
+import com.app.initializr.entity.User;
+import com.app.initializr.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

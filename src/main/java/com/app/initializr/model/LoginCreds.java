@@ -1,4 +1,4 @@
-package com.app.job_tracker.model;
+package com.app.initializr.model;
 
 import lombok.*;
 

@@ -1,9 +1,9 @@
-package com.app.job_tracker.controller;
+package com.app.initializr.controller;
 
-import com.app.job_tracker.entity.User;
-import com.app.job_tracker.model.LoginCreds;
-import com.app.job_tracker.repository.UserRepo;
-import com.app.job_tracker.security.JWTUtil;
+import com.app.initializr.entity.User;
+import com.app.initializr.model.LoginCreds;
+import com.app.initializr.repository.UserRepo;
+import com.app.initializr.security.JWTUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Map;
 

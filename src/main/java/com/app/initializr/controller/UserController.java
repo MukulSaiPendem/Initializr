@@ -1,7 +1,7 @@
-package com.app.job_tracker.controller;
+package com.app.initializr.controller;
 
-import com.app.job_tracker.entity.User;
-import com.app.job_tracker.repository.UserRepo;
+import com.app.initializr.entity.User;
+import com.app.initializr.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.GetMapping;

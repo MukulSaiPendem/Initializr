@@ -1,6 +1,5 @@
-package com.app.job_tracker.entity;
+package com.app.initializr.entity;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

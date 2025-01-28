@@ -1,6 +1,6 @@
-package com.app.job_tracker.repository;
+package com.app.initializr.repository;
 
-import com.app.job_tracker.entity.User;
+import com.app.initializr.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

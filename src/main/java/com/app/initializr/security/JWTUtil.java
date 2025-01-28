@@ -1,4 +1,4 @@
-package com.app.job_tracker.security;
+package com.app.initializr.security;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

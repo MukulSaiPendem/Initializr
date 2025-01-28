@@ -1,4 +1,4 @@
-package com.app.job_tracker;
+package com.app.initializr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package com.app.job_tracker.filter;
+package com.app.initializr.filter;
 
 
-import com.app.job_tracker.security.JWTUtil;
-import com.app.job_tracker.security.MyUserDetailService;
+import com.app.initializr.security.JWTUtil;
+import com.app.initializr.security.MyUserDetailService;
 import com.auth0.jwt.exceptions.JWTVerificationException;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
